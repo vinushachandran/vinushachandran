@@ -2,7 +2,7 @@
 🚀 **Full Stack Developer** - I build **scalable** and **efficient** applications from frontend to backend!  
 <img align = "right" width="370" height="290" src="https://media3.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif?cid=e3b0c4429d244b90c54eb933b63f46403767873d4d4f42e9&rid=giphy.gif">
 - 🔭 Here's my [portfolio](https://vinusha-chandravel.netlify.app/)
-- 💻 I’m currently working on **Bus Ticket Booking software using .NET Core and React
+- 💻 I’m currently working on **Bus Ticket Booking software using .NET Core and React**
 - 🌱 I’m currently learning **microservices architecture and Docker containerization**
 - 👯 I’m looking to collaborate on **open-source projects related to web development and cloud computing**
 - 🤔 I’m looking for job opportunities as a Full Stack Developer
