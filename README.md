@@ -1,5 +1,5 @@
-##Hey there! 👋 I'm **Vinusha** 
-I am a passionate full-stack developer dedicated to transforming ideas into impactful solutions through innovation, creativity, and seamless user experiences.
+## Hey there! 👋 I'm **Vinusha**  
+🚀 **Full Stack Developer** - I build **scalable** and **efficient** applications from frontend to backend!  
 
 <!--
 **vinushachandran/vinushachandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
