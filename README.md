@@ -1,5 +1,6 @@
 ## Hey there! 👋 I'm **Vinusha**  
 🚀 **Full Stack Developer** - I build **scalable** and **efficient** applications from frontend to backend!  
+<img align = "right" width="370" height="290" src="https://media3.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif?cid=e3b0c4429d244b90c54eb933b63f46403767873d4d4f42e9&rid=giphy.gif">
 
 <!--
 **vinushachandran/vinushachandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
